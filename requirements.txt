@@ -1,11 +1,7 @@
+Flask
+gunicorn
 pandas
-numpy
 scikit-learn
 nltk
-spacy
-textblob
-matplotlib
-seaborn
-wordcloud
-xgboost
-tqdm
+numpy
+joblib
